@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "ESP32S3-DTH11_v2",
+			"path": "."
+		},
+		{
+			"name": "ESP32S3-DTH11-v21",
+			"path": "ESP32S3-DTH11-v21"
+		}
+	]
+}

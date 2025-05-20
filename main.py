@@ -1,7 +1,7 @@
 from machine import Pin, I2C
 import ssd1306
 import time
-from dht import DHT11
+from dht import DHT11hel
 import ujson
 from umqtt.simple import MQTTClient
 import network
